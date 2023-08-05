@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chadwill05
+- 👋 Hi, I’m Chad
 
 - I’m currently learning Python and data visualization!
 
@@ -7,7 +7,7 @@
 - 📫 How to reach me 
 - email - chadwill05@gmail.com
 - linkedin - https://www.linkedin.com/in/chad-williams5/
-- Instagram - chadwill05
+
 
 <!---
 chadwill05/chadwill05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
